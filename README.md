@@ -75,7 +75,7 @@ Camera, Cam = get a photo from the camera and send it by message
 ![screen(60)](https://user-images.githubusercontent.com/97309135/148687339-0c30ecc5-5d2b-4085-ab80-1db8ad5dcdbc.png)
 
 
-# other things
+# important
 You have to download the ZIP folder and you must NOT delete the subfolders, even if they don't contain any file: they are used when you call some functions (i.e. Camera, Screenshot, Password, etc.). To use the Password function, the program uses a software that shows saved passwords. Your antivirus may say it is a virus, but it is not.
 
 
