@@ -1,5 +1,5 @@
 # elon
-Elon Muschioso is a Telegram bot that you can use to manage your computer from the phone.
+Elon Muschioso is a Telegram bot you can use to manage your computer from the phone.
 
 # what does it do?
 Elon Muschio makes a connection from your phone to your computer using Google's APIs and Telegram. Writing messages and commands to the bot in Telegram, from the phone or from other devices, you can easily manage your computer from the distance.
